@@ -1,0 +1,12 @@
+<view class="code">
+  <view class="code-out">
+    <!-- <view class="code-out-img"> -->
+      <image  class="code-out-img" src="../../images/icon_user@2x.png"  mode="widthFix"></image>
+    <!-- </view> -->
+    <text class="code-out-text">用户156888888888</text>
+  </view>
+  <view class="code-out-img-inner">
+    <image src="../../images/erweima.jpg"  mode="widthFix"></image>
+  </view>
+  <text class="code-out-text-inner">扫扫二维码,关注更多哦</text>
+</view>

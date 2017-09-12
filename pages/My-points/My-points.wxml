@@ -1,0 +1,65 @@
+<view class="My-points">
+<!-- 总积分 -->
+  <view class="My-points-1">
+    <view class="My-points-1-inner">
+      <view class="My-points-1-inner-img">
+        <image src="../../images/btn_Customer-service@2x.png" mode="widthFix"></image>
+      </view>
+       <text class="My-points-1-inner-text">3000</text> 
+    </view>
+    <text class="My-points-1-inner-text-1">当前账户积分</text>
+  </view>
+<!-- 总积分详情 -->
+  <view class="My-points-2">
+    <view class="My-points-2-out My-points-2-out-con">
+      <text class="My-points-2-out-1">11111</text>
+      <text class="My-points-2-out-2">22222</text>
+    </view>
+    <view class="My-points-2-out">
+      <text class="My-points-2-out-1">11111</text>
+      <text class="My-points-2-out-2">22222</text>
+    </view>
+    <view class="My-points-2-out">
+      <text class="My-points-2-out-1">11111</text>
+      <text class="My-points-2-out-2">22222</text>
+    </view>
+    <view class="My-points-2-out">
+      <text class="My-points-2-out-1">11111</text>
+      <text class="My-points-2-out-2">22222</text>
+    </view>
+  </view>
+  <view class="My-points-3">
+    <text class="My-points-3-text">积分明细</text>
+    <view class="My-points-3-inner">
+        <view class="My-points-3-inner-out">
+            <view class="My-points-3-inner-out-1">
+                <text class="My-points-3-inner-out-1-text">单笔收入</text>
+                <text class="My-points-3-inner-out-1-text1">2017-09-06 11:09:36</text>
+            </view>
+            <text class="My-points-3-inner-out-text">+15</text>    
+        </view>
+        <view class="My-points-3-inner-out">
+            <view class="My-points-3-inner-out-1">
+                <text class="My-points-3-inner-out-1-text">单笔收入</text>
+                <text class="My-points-3-inner-out-1-text1">2017-09-06 11:09:36</text>
+            </view>
+            <text class="My-points-3-inner-out-text">+15</text>    
+        </view>
+        <view class="My-points-3-inner-out">
+            <view class="My-points-3-inner-out-1">
+                <text class="My-points-3-inner-out-1-text">单笔收入</text>
+                <text class="My-points-3-inner-out-1-text1">2017-09-06 11:09:36</text>
+            </view>
+            <text class="My-points-3-inner-out-text">+15</text>    
+        </view>
+        <view class="My-points-3-inner-out">
+            <view class="My-points-3-inner-out-1">
+                <text class="My-points-3-inner-out-1-text">单笔收入</text>
+                <text class="My-points-3-inner-out-1-text1">2017-09-06 11:09:36</text>
+            </view>
+            <text class="My-points-3-inner-out-text">+15</text>    
+        </view>
+    </view>
+    <view class="personal-divider"></view>
+  </view>
+</view>

@@ -1,0 +1,12 @@
+<view wx:if="{{business != ''}}" class="classify">
+  <view wx:for="{{business2}}" wx:key="item">
+  <navigator url="/pages/code/code?id={{item.id}}&slug=123">
+    <view class="classify-1">
+        <view class="classify-1-image">
+            <image  src="{{item.icon_img}}" mode="widthFix"></image>
+        </view>
+        <text class="classify-text">{{item.name}}</text>
+    </view>
+    </navigator>
+  </view>
+</view>

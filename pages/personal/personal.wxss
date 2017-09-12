@@ -1,0 +1,96 @@
+.personal-centent{
+  width:100%;
+}
+/* 头像微信名 */
+.personal-name{
+  width:100%;
+  height:350rpx; 
+  background:#ccc;
+  position:relative;
+}
+.personal-name-img{
+  position:absolute;
+  top:20%;
+  left:40%;
+  width:20%;
+  border-radius:50%;
+  overflow:hidden;
+}
+.personal-name-img image{
+  width:100%;
+}
+.personal-name-text{
+  position:absolute;
+  top:67%;
+  width:100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+  color:#ffffff;
+  font-size:35rpx;
+}
+/* 积分、签到、二维码*/
+.personal-integral{
+  width:100%;
+  height:175rpx;
+  overflow:hidden;
+  margin-top:50rpx;
+}
+.personal-integral-one{
+  width:33.3%; 
+  /* border:1px solid red; */
+  float:left;
+}
+.personal-integral-one-img{
+  width:35%;
+  margin:0 auto;
+}
+.personal-integral-one-img image{
+  width:100%;
+}
+.personal-integral-one-text{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size:32rpx;
+  margin-top:3%;
+}
+/* 分割线 */
+.personal-divider{
+  width:100%;
+  height:20rpx;
+  background:#ccc;
+}
+/* 用户信息 */
+.personal-data{
+  width:100%;
+}
+.personal-data-1{
+  width:92%;
+  margin:0 auto;
+  border-bottom:1px dotted #ccc;
+  overflow:hidden;
+}
+.personal-data-1-text{
+  width:20%;
+  float:left;
+  font-size:30rpx;
+  line-height:90rpx;
+  height:90rpx;
+}
+.personal-data-1-input{
+  width:33%; 
+  float:right;
+  margin-right:4%;
+  margin-top:15rpx;
+  font-size:35rpx;
+}
+.personal-data-2-text{
+  width:33%; 
+  float:right;
+  /* margin-right:4%; */
+  font-size:35rpx;
+  text-align:right;
+  line-height:90rpx;
+  height:90rpx;
+}
