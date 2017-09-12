@@ -4,7 +4,7 @@
     "pages/classify/classify",
     "pages/personal/personal",
     "pages/code/code",
-    "pages/My-points/My-points"
+    "pages/My-points/My-points",
   ],
   "window":{
     "backgroundTextStyle":"light",
